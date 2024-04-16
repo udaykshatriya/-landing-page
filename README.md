@@ -26,11 +26,6 @@ The landing page features:
 ![image](https://github.com/udaykshatriya/-landing-page/assets/104297509/66d9b49e-213b-4fc1-b6d1-73f0cb893609)
 
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Note:** Replace placeholder images (`product1.jpg`, `Product2.jpeg`, `Product3.png`) with your actual product images. Ensure all images are appropriately sized and optimized for web viewing.
