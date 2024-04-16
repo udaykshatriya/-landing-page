@@ -23,8 +23,9 @@ The landing page features:
 4. To link the "Buy Now" button to your product page, update the `onclick` attribute with your desired URL in the HTML file.
 
 ## Preview
+![image](https://github.com/udaykshatriya/-landing-page/assets/104297509/66d9b49e-213b-4fc1-b6d1-73f0cb893609)
 
-![Spring Sale Landing Page](preview.png)
+
 
 ## License
 
