@@ -1,0 +1,96 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #42a5f5;
+  color: #fff;
+  text-align: center;
+  padding: 50px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+#products {
+  text-align: center;
+}
+
+.product {
+  display: inline-block;
+  margin: 0 20px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.product h3 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.product p {
+  font-size: 20px;
+  color: #42a5f5;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #42a5f5;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e88e5;
+}
+
+#subscribe {
+  text-align: center;
+}
+
+input[type="email"] {
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+input[type="email"], button[type="submit"] {
+  font-size: 18px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
